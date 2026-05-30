@@ -24,6 +24,8 @@ Focusing on circuit analysis, digital logic design, and mathematical modeling.
 ### 🤝 Connect
 * **LinkedIn:** [linkedin.com/in/md-siam-ofc](https://www.linkedin.com/in/md-siam-ofc)
 
----
-
-![Siam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=vivid&hide_border=true&layout=compact)
+### 🤍 Fun facts about me
+ - I love cats
+ - I am a football & cricket enthusiastic
+ - I love reading manga and watching anime
+ - My favorite manga is Billy bat, Grand blue & 20th century boys
